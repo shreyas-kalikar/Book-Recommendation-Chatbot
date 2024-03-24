@@ -1,4 +1,4 @@
-#LLM Book Recommendation Chatbot
+# LLM Book Recommendation Chatbot
 This repository hosts a Language Model (LLM) based book recommendation chatbot built using Streamlit, Hugging Face's Datasets library, OpenAI's text-embedding-3-small model for text embedding, and MongoDB as the database. The chatbot allows users to ask for book recommendations and provides personalized responses based on their input.
 
 Features
